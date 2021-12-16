@@ -1,0 +1,234 @@
+{
+  "title": "ml-stickers",
+  "id": "ml-stickers",
+  "stickers": [
+    {
+      "body": "hackerman",
+      "url": "mxc://matrix.org/cGsVROcTXjqMZOlOmFFHEZiR",
+      "info": {
+        "w": 112,
+        "h": 112,
+        "size": 13308,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.org/cGsVROcTXjqMZOlOmFFHEZiR",
+        "thumbnail_info": {
+          "w": 112,
+          "h": 112,
+          "size": 13308,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "sha256:42acb0510b3727de099da8ba6946b1a6d9d830578e071b12e85f4c2bb7f41fdb"
+    },
+    {
+      "body": "hypers",
+      "url": "mxc://matrix.org/ffmBRUdTLjcyjOpbRbFIeSAh",
+      "info": {
+        "w": 112,
+        "h": 112,
+        "size": 19531,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.org/ffmBRUdTLjcyjOpbRbFIeSAh",
+        "thumbnail_info": {
+          "w": 112,
+          "h": 112,
+          "size": 19531,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "sha256:f8c538a15a2a4fd5ab89a7970e2130970de294bc7c3865f46d9b123177739ff9"
+    },
+    {
+      "body": "kekw",
+      "url": "mxc://matrix.org/RoooofxtjyGIrbuRxEqgmPSF",
+      "info": {
+        "w": 100,
+        "h": 100,
+        "size": 19893,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.org/RoooofxtjyGIrbuRxEqgmPSF",
+        "thumbnail_info": {
+          "w": 100,
+          "h": 100,
+          "size": 19893,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "sha256:07fb80b99140f3eceedfa8d294fbde1fa9826c5fed85f3a9ccc1160ccc940bb8"
+    },
+    {
+      "body": "monkaS",
+      "url": "mxc://matrix.org/ORNXLnTQwpTcpshrSTGgdpQw",
+      "info": {
+        "w": 112,
+        "h": 112,
+        "size": 21825,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.org/ORNXLnTQwpTcpshrSTGgdpQw",
+        "thumbnail_info": {
+          "w": 112,
+          "h": 112,
+          "size": 21825,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "sha256:f8c8411efa1065b43a4d1b0a1e948069845d9efd0362ac8194c3cfc1fefde3c6"
+    },
+    {
+      "body": "peepohappy",
+      "url": "mxc://matrix.org/eVbqSUVhdyzdKTFBsTRQQYZb",
+      "info": {
+        "w": 112,
+        "h": 112,
+        "size": 16190,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.org/eVbqSUVhdyzdKTFBsTRQQYZb",
+        "thumbnail_info": {
+          "w": 112,
+          "h": 112,
+          "size": 16190,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "sha256:530f4082408af7f438ca285a9b18a03f68bbe4d9623e38ab05c9493cca085464"
+    },
+    {
+      "body": "peeposhy",
+      "url": "mxc://matrix.org/TkyQKbRsOvuzIqmngKHCGCcC",
+      "info": {
+        "w": 112,
+        "h": 112,
+        "size": 11143,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.org/TkyQKbRsOvuzIqmngKHCGCcC",
+        "thumbnail_info": {
+          "w": 112,
+          "h": 112,
+          "size": 11143,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "sha256:860d21ab3553f6082abafec6b838716433547e1a5f9c300d4f321f7eabe50c51"
+    },
+    {
+      "body": "pepecringe",
+      "url": "mxc://matrix.org/MmaCDSeetGEqAdfGrCjmQVqN",
+      "info": {
+        "w": 112,
+        "h": 112,
+        "size": 14243,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.org/MmaCDSeetGEqAdfGrCjmQVqN",
+        "thumbnail_info": {
+          "w": 112,
+          "h": 112,
+          "size": 14243,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "sha256:b041e40fe9d36c3aa288f55aa4a49f6c0fc1c75616611ba4970bdf156be92abe"
+    },
+    {
+      "body": "pepega",
+      "url": "mxc://matrix.org/EDUGTLjJvExGaQqXDeIZkBbB",
+      "info": {
+        "w": 112,
+        "h": 112,
+        "size": 17155,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.org/EDUGTLjJvExGaQqXDeIZkBbB",
+        "thumbnail_info": {
+          "w": 112,
+          "h": 112,
+          "size": 17155,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "sha256:4413b1a0531f7f549e203a82e30d37f413f9d9d82d39a510acd95c0ae5986e9d"
+    },
+    {
+      "body": "pepehands",
+      "url": "mxc://matrix.org/IUerrhnJhTVsRZpWXDxLhZtl",
+      "info": {
+        "w": 112,
+        "h": 112,
+        "size": 20935,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.org/IUerrhnJhTVsRZpWXDxLhZtl",
+        "thumbnail_info": {
+          "w": 112,
+          "h": 112,
+          "size": 20935,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "sha256:09d9d241cf1cbf39daa2f2c6cef383af0f9fde581f0c2b0bed5a351bea3153a7"
+    },
+    {
+      "body": "pepesweat",
+      "url": "mxc://matrix.org/VOOhCjipuNhemCGgmMgnGFPB",
+      "info": {
+        "w": 112,
+        "h": 112,
+        "size": 4729,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.org/VOOhCjipuNhemCGgmMgnGFPB",
+        "thumbnail_info": {
+          "w": 112,
+          "h": 112,
+          "size": 4729,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "sha256:9ec29434df8b814632844b46c6187fd40c63c98ca0097d6a232de8dabbf1a3dd"
+    },
+    {
+      "body": "poggers",
+      "url": "mxc://matrix.org/xzaMxgaOeJkalqEiBCGWcOnx",
+      "info": {
+        "w": 112,
+        "h": 112,
+        "size": 21769,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.org/xzaMxgaOeJkalqEiBCGWcOnx",
+        "thumbnail_info": {
+          "w": 112,
+          "h": 112,
+          "size": 21769,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "sha256:6e0d36aa02c9f20c72224faa320608f251dafb959c8251f11d74807b62ef1a49"
+    },
+    {
+      "body": "sadge",
+      "url": "mxc://matrix.org/SMVuaQMeizVEvtBTxDBxoElf",
+      "info": {
+        "w": 112,
+        "h": 112,
+        "size": 14072,
+        "mimetype": "image/png",
+        "thumbnail_url": "mxc://matrix.org/SMVuaQMeizVEvtBTxDBxoElf",
+        "thumbnail_info": {
+          "w": 112,
+          "h": 112,
+          "size": 14072,
+          "mimetype": "image/png"
+        }
+      },
+      "msgtype": "m.sticker",
+      "id": "sha256:0229882dcea1528435943bce99ac2f0f24bb0ccafb13c6ab2ede6aaf879c2e74"
+    }
+  ]
+}
